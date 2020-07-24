@@ -72,6 +72,7 @@ show_timeline#:#Timeline ein- oder ausblenden
 info_show_timeline#:#Mit der Timeline kann der zeitliche Verlauf des Etherpads analysiert werden.
 enter_fullscreen#:#Vollbildmodus aktivieren
 leave_fullscreen#:#Vollbildmodus deaktivieren
+general_notice#:#Wenn Sie auf einem Tablet zwischen Apps wechseln, laden Sie die Seite bitte neu, bevor Sie weiterschreiben.
 
 <!-- Administration -->
 configuration#:#Konfiguration von Etherpad-Lite

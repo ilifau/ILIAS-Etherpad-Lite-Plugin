@@ -69,6 +69,7 @@ show_timeline#:#Show Timeline
 info_show_timeline#:#With the timeline the chronological sequence of the Etherpad can be shown.
 enter_fullscreen#:#Activate Fullscreen
 leave_fullscreen#:#Deactivate Fullscreen
+general_notice#:#When you switch between apps on a tablet, please reload the page before you continue writing.
 
 
 <!-- Administration -->

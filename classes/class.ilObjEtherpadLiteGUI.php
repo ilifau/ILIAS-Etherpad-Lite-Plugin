@@ -392,6 +392,9 @@ class ilObjEtherpadLiteGUI extends ilObjectPluginGUI
 			} 
 			else 
 			{
+			    // fau: etherGeneralNotice - show notice to users
+                ilUtil::sendInfo($this->txt("general_notice"), true);
+                // fau.
 				$padID = $this->object->getEtherpadLiteID(); 
 			}
 			
